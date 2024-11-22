@@ -60,8 +60,8 @@ docker-app/
 1. Install [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/).
 2. Clone this repository:
    ```bash
-   git@github.com:amishaprashar/docker-app.git
-   cd docker-app
+   git@github.com:amishaprashar/multi-layer-docker-app.git
+   cd multi-layer-docker-app
    ```
 
 ---
@@ -144,6 +144,6 @@ For any questions or feedback, feel free to reach out:
 
 - **Name**: Amisha Prashar
 - **Email**: amishaprashar08@gmail.com
-- **GitHub**: [https://github.com/amishaprashar/docker-app]
+- **GitHub**: [https://github.com/amishaprashar/multi-layer-docker-app]
 
 
