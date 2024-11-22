@@ -7,7 +7,7 @@ name: Lenscorp Workflow
 
 on:
   push:
-    branches: [ "main" ] 
+    branches: [ "master" ] 
 
 jobs:
   Build_and_Push:
