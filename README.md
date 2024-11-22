@@ -14,7 +14,6 @@ A multi-layer Docker application consisting of a **Flask backend** and an **NGIN
 5. [Usage](#usage)
 6. [CI/CD Pipeline](#cicd-pipeline)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
