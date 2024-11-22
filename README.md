@@ -39,7 +39,7 @@ This project demonstrates a multi-layer application architecture using Docker:
 ## **Directory Structure**
 
 ```
-docker-app/
+multi-layer-docker-app/
 ├── backend/
 │   ├── app.py                 # Flask backend application
 │   ├── Dockerfile             # Dockerfile for the backend
